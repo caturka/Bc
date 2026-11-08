@@ -145,7 +145,7 @@ ${helpList}
         };
 
         const stylishHeader = `
-╭── [ *SXCWA-MD V3* ] ──╮
+╭── [ *Bangcats Bot* ] ──╮
 │┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 │╭──── [ ✨ *INFORMATION* ✨ ]
 │├ Name   : *${String(user.name).toLowerCase()}*
