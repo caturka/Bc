@@ -29,7 +29,7 @@ const readMore = more.repeat(4001)
 global.Func = (await import('./lib/function.js')).default
 
 /*============= BOT CONFIGURATION =============*/
-global.owner = ["628"] // SET NOMOR OWNER YAK
+global.owner = ["62895631966911"] // SET NOMOR OWNER YAK
 global.costumpairing = "ABCDEFGH"
 global.mods = []
 global.prems = []
@@ -37,18 +37,18 @@ global.audioUrl = "https://j.top4top.io/m_3648lcp5h0.mp3"
 global.readMore = readMore
 global.linkch = "https://whatsapp.com/channel/0029Vb7XYjLKgsNyWrRHL10k"
 global.tz = "Asia/Jakarta"
-global.nomor = "628" // GANTI JADI NOMOR BOT MU, OTOMATIS LANGSUNG SEND CODE PAIRING DI CONSOLE PANEL MU
-global.botname = 'SXCWA-MD'
+global.nomor = "628816863236" // GANTI JADI NOMOR BOT MU, OTOMATIS LANGSUNG SEND CODE PAIRING DI CONSOLE PANEL MU
+global.botname = 'Bangcats'
 global.botName = global.botname
-global.ownername = 'lumnztyz6x'
-global.saluran = '120363409912187282@newsletter' // id ch
+global.ownername = 'C.K.A'
+global.saluran = '0029VbEbaHy0lwgs8JqxS044@bangcats' // id ch
 global.autoBackup = true // Auto backup SC setiap jam 12 malam (00:00 WIB)
 
 /*============= STICKER CONFIG =============*/
 global.stickerPack = {
-    packname: 'bot wa sxcwamd by',
-    author: 'lumnztyz6x',
-    web: 'https://whatsapp.com/channel/0029Vb7XYjLKgsNyWrRHL10k'
+    packname: 'bot wa Bangcats by',
+    author: 'C.K.A',
+    web: 'https://whatsapp.com/channel/0029VbEbaHy0lwgs8JqxS044'
 }
 global.APIs = {
     faa: 'https://api-faa.my.id',
