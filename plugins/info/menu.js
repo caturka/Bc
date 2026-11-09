@@ -140,7 +140,7 @@ ${helpList}
         const cleanBotNumber = String(botNumber).replace('@s.whatsapp.net', '').split('@')[0];
 
         const botInfo = {
-            name: global.botname || 'SXCWA-MD',
+            name: global.botname ||'Bangcats Bot',
             number: cleanBotNumber
         };
 
@@ -271,13 +271,13 @@ const menuBut = async (m, conn, text, options = {}) => {
         locationMessage: {
             degreesLatitude: 0,
             degreesLongitude: 0,
-            name: `🤖 ${global?.botname || 'SXCWA-MD'}`,
-            address: "Powered by lumnztyz6x",
+            name: `🤖 ${global?.botname || 'Bangcats Bot'}`,
+            address: "Powered by C.K.A",
             url: global.linkch || "https://whatsapp.com/channel/0029Vb7XYjLKgsNyWrRHL10k",
             jpegThumbnail: thumbnailBase64
         },
         contentText: text,
-        footerText: `© ${global?.botname || 'SXCWA-MDV3'} • ${getIndonesiaTime()} WIB`,
+        footerText: `© ${global?.botname || 'Bangcats Bot'} • ${getIndonesiaTime()} WIB`,
         headerType: 6
     };
 
