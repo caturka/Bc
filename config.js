@@ -29,26 +29,50 @@ const readMore = more.repeat(4001)
 global.Func = (await import('./lib/function.js')).default
 
 /*============= BOT CONFIGURATION =============*/
+
+Add files via upload
+12 hours ago
 global.owner = ["62895631966911"] // SET NOMOR OWNER YAK
-global.costumpairing = "RAJA2026"
+
+SxcV3
+2 months ago
+global.costumpairing = ""
 global.mods = []
 global.prems = []
 global.audioUrl = "https://j.top4top.io/m_3648lcp5h0.mp3"
 global.readMore = readMore
 global.linkch = "https://whatsapp.com/channel/0029Vb7XYjLKgsNyWrRHL10k"
 global.tz = "Asia/Jakarta"
+
+Add files via upload
+12 hours ago
 global.nomor = "628816863236" // GANTI JADI NOMOR BOT MU, OTOMATIS LANGSUNG SEND CODE PAIRING DI CONSOLE PANEL MU
 global.botname = 'Bangcats'
+
+SxcV3
+2 months ago
 global.botName = global.botname
+
+Add files via upload
+12 hours ago
 global.ownername = 'C.K.A'
 global.saluran = '0029VbEbaHy0lwgs8JqxS044@bangcats' // id ch
+
+SxcV3
+2 months ago
 global.autoBackup = true // Auto backup SC setiap jam 12 malam (00:00 WIB)
 
 /*============= STICKER CONFIG =============*/
 global.stickerPack = {
+
+Add files via upload
+12 hours ago
     packname: 'bot wa Bangcats by',
     author: 'C.K.A',
     web: 'https://whatsapp.com/channel/0029VbEbaHy0lwgs8JqxS044'
+
+SxcV3
+2 months ago
 }
 global.APIs = {
     faa: 'https://api-faa.my.id',
