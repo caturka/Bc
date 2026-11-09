@@ -213,7 +213,7 @@ ${helpList}
             const filteredCommands = getPluginsByTags(tags);
             finalCaption = `${stylishHeader}${readmore}\n\n*filtered commands [${tags.join(', ').toLowerCase()}]*\n\n${filteredCommands}\n\n${teksdx}`;
         } else {
-            finalCaption = `${stylishHeader}${readmore}\n\n> Source code No Enc : github.com/SiX-CoRe/SxcWaMdV3${teksdx}`;
+            finalCaption = `${stylishHeader}${readmore}\n\n> instagram ; @__kerass${teksdx}`;
         }
 
         let aestheticCaption = finalCaption.toLowerCase();
