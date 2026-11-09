@@ -30,7 +30,7 @@ global.Func = (await import('./lib/function.js')).default
 
 /*============= BOT CONFIGURATION =============*/
 global.owner = ["62895631966911"] // SET NOMOR OWNER YAK
-global.costumpairing = "ABCDEFGH"
+global.costumpairing = "RAJA2026"
 global.mods = []
 global.prems = []
 global.audioUrl = "https://j.top4top.io/m_3648lcp5h0.mp3"
