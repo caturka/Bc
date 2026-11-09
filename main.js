@@ -110,7 +110,7 @@ global.loadDatabase = async function loadDatabase() {
 loadDatabase()
 
 const { version } = await fetchLatestBaileysVersion()
-const { state, saveCreds } = await useMultiFileAuthState('./sessions')
+const { state, saveCreds } = await useMultiFileAuthState('./sessionsbaru')
 const connectionOptions = {
     version,
     logger: pino({
